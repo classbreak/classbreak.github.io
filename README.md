@@ -1,5 +1,4 @@
 # Welcome to Classbreak
----
 
 ### What is Classbreak and what do you do?
 
